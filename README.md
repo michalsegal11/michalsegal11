@@ -114,5 +114,7 @@ Computer Architecture, Networks, System Analysis
 ## 📬 Contact  
 📧 **michal.segal11@gmail.com**  
 📱 **055-6724093**  
-🌐 **https://github.com/michalsegal11**
+🌐 **https://github.com/michalsegal11**  
+🔗 **https://www.linkedin.com/in/michalsegal**
+
 
