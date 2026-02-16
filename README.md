@@ -34,20 +34,15 @@ with a unified inference pipeline, advanced metrics, and a strong architecture b
 ---
 
 ### 🔹 Python Chess Engine & GUI (2025)
+## KungfuChess Multiplayer Upgrade (Python + Sockets)
 
-A full chess engine and graphical interface, including legal-move validation, physics, UI, and testing.
+  A full chess engine and graphical interface, including legal-move validation, physics, UI, and testing.
 
 **Highlights:**
 - Implemented full chess rules: diagonal tracing, path checks, knight jumps, captures  
 - Built UI with **Pygame & OpenCV**: moves, scoring, animations, history  
 - Designed a **client–server WebSocket architecture**  
 - Wrote extensive **unit tests** for state logic, physics, and UI components  
-
----
-
-### 🔹 KungfuChess Multiplayer Upgrade (Python + Sockets)
-- Extended the classic game to support **multi-player real-time interactions** using Python sockets  
-- Designed communication protocol & synced state logic  
 
 ---
 
