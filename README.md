@@ -17,21 +17,20 @@ I bring a unique blend of:
 ## 🚀 Featured Projects
 
 ### 🔹 Benchmarking Framework for Computer Vision Models  
-  *Applied Materials & KamaTech UltraCode Program, 2025*
-  
-  A full evaluation platform for Computer Vision models (classification, detection, segmentation)  
-  with a unified inference pipeline, advanced metrics, and a strong architecture built for scale.
-  
-  **Key Contributions:**
-  - Developed an **ONNX-first inference pipeline** with hashing, validation, and automatic conversion  
-  - Built a **modular architecture** (runners, adapters, metric engines)  
-  - Implemented **Incremental Evaluation** for efficient batch-level resume  
-  - Designed a **PyQt6 Desktop UI** with dynamic tables, progress tracking, and artifact downloads  
-  - Integrated **MinIO, PostgreSQL, Redis, Docker Compose** into one cohesive system  
-  - Created an **intent-to-command LLM module** using Sentence Transformers  
-  - Designed a **Combined Score** metric for cross-benchmark comparison  
+ *Applied Materials & KamaTech UltraCode Program, 2025*
+ 
+ A full evaluation platform for Computer Vision models (classification, detection, segmentation)  
+ with a unified inference pipeline, advanced metrics, and a strong architecture built for scale.
+ 
+ **Key Contributions:**
+ - Developed an **ONNX-first inference pipeline** with hashing, validation, and automatic conversion  
+ - Built a **modular architecture** (runners, adapters, metric engines)  
+ - Implemented **Incremental Evaluation** for efficient batch-level resume  
+ - Designed a **PyQt6 Desktop UI** with dynamic tables, progress tracking, and artifact downloads  
+ - Integrated **MinIO, PostgreSQL, Redis, Docker Compose** into one cohesive system  
+ - Created an **intent-to-command LLM module** using Sentence Transformers  
+ - Designed a **Combined Score** metric for cross-benchmark comparison  
 
----
 
 ### 🔹 Python Chess Engine & GUI (2025)
   ## KungfuChess Multiplayer Upgrade (Python + Sockets)
